@@ -4,7 +4,7 @@ import './bootstrap.min.css';
 
 const api = {
   key: '2f3f65a6339ab1863eac5ae8f52d8e1e',
-  baseUrl: 'http://api.openweathermap.org/data/2.5/'
+  baseUrl: 'https://api.openweathermap.org/data/2.5/'
 }
 function App() {
    
